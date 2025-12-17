@@ -20,7 +20,7 @@ We value all contributions, from improving documentation to participating in dis
 
 ### 2. Report Issues or Suggest Enhancements
 
-- Use the [GitHub Issues](https://github.com/ossf/wg-dei/issues) tab to report problems or suggest ideas.
+- Use the [GitHub Issues](https://github.com/ossf/wg-bear/issues) tab to report problems or suggest ideas.
 - Follow our issue template to provide clear and detailed information.
 
 ### 3. Submit Pull Requests
@@ -47,6 +47,6 @@ We are committed to maintaining a welcoming, inclusive, and respectful environme
 - **Be Collaborative:** Work together to solve problems and build new initiatives.
 - **Be Open:** Share your knowledge and be open to learning from others.
 
-We’re excited to collaborate with you and appreciate your support in advancing DEI in open source cybersecurity!
+We’re excited to collaborate with you and appreciate your support in advancing beloging, empowerment, allyship, and representation in open source cybersecurity!
 
 For any questions or additional guidance, contact us through Slack or during our working group meetings. Let's build a better, more inclusive cybersecurity community together!
