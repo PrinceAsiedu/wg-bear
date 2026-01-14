@@ -14,7 +14,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 ### 2. Technical initiative roles
 
-(a) The primary points of contact are the lead and co-lead(s) of the Technical Initiative, who are listed in the [README](https://github.com/ossf/wg-dei/blob/main/README.md#governance)
+(a) The primary points of contact are the lead and co-lead(s) of the Technical Initiative, who are listed in the [README](https://github.com/ossf/wg-bear/blob/main/README.md#governance)
 
 (b) The Technical Initiative generally will involve Collaborators and Contributors. The Technical Initiative may adopt or modify additional roles so long as the roles are documented in the Technical Initiative’s repository. Unless otherwise documented:
 

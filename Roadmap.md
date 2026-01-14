@@ -1,4 +1,4 @@
-# OpenSSF DEI WG Roadmap
+# OpenSSF BEAR WG Roadmap
 
 The WG is planning for the following focus areas and activities.
 

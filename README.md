@@ -35,6 +35,16 @@ Every 2 weeks, Tuesday 11am EST. The meeting invite is available on the [public 
 2. [Yesenia Yser](https://github.com/Cyber-JiuJiteria) (Microsoft)
 3. [Jay White](https://github.com/camaleon2016) (Microsoft)
 
+### Special Interest Groups
+
+#### Open Source & Security Africa (OSSAfrica)
+
+Focused on open source collaboration and software security across Africa.
+
+* **Leads**: [Prince Oforh Asiedu](https://github.com/PrinceAsiedu), [Seth Mensah](https://github.com/iamcerebrocerberus), [Aaron Will Djaba](https://github.com/kurtiz)
+* **Governing Body**: OpenSSF BEAR Working Group
+* **Resources**: [GitHub Organization](https://github.com/OSSAfrica)
+
 ### Roadmap
 
 To get an idea of our annual goals, our [roadmap](./Roadmap.md) covers
@@ -49,10 +59,10 @@ Anyone is welcome to join our open discussions related to the group's mission an
 
 #### Communication Channels
 
-* Official communications occur on the BEAR Working Group [mailing list](https://lists.openssf.org/g/openssf-wg-dei)
+* Official communications occur on the BEAR Working Group [mailing list](https://lists.openssf.org/g/openssf-wg-bear)
 * Manage your subscriptions to [Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups)
 * Join the conversation on [Slack](https://app.slack.com/client/T019QHUBYQ3/C068TF7AH0U)
-* Explore the [GitHub Issues](https://github.com/ossf/wg-dei/issues) to collaborate.
+* Explore the [GitHub Issues](https://github.com/ossf/wg-bear/issues) to collaborate.
 
 ### Meeting Archive
 
